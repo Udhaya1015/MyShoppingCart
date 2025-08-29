@@ -1,0 +1,61 @@
+#flexOutput
+{
+	padding:0px;
+}
+
+#flexContainer
+{
+	height:230px;
+	overflow-y:auto;
+	position:fixed;
+	top:0px;
+	right:10px;
+	display:flex;
+	flex-direction:column;
+	width:340px;
+	padding:0px;
+	box-sizing:border-box;
+	z-index:4;
+	
+}
+
+#flexContainer H2
+{
+	align-self:flex-start;
+	color:red;
+	margin:0px;
+	padding:0px;
+	width:320px;
+	
+}
+
+#flexContainer div
+{
+	width:320px;
+	border:1px solid red;
+	border-radius:3%;
+	background-image:linear-gradient(to right bottom,orange,yellow);
+	height:160px;
+	padding:20px;
+	box-sizing:border-box;
+	margin:0px;
+	
+}
+
+#flexContainer hr
+{
+	margin:0px;
+	padding:0px;
+}
+
+#flexContainer button
+{
+	float:right;
+	margin:auto 5px auto auto;
+}
+
+#flexContainer #buttons
+{
+	padding:0px;
+	height:auto;
+}

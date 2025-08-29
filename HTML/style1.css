@@ -1,0 +1,15 @@
+header{
+    margin: auto;
+    margin-top: 2px;
+    width: 96%;
+    height: 20%;
+    background-color: brown;
+}
+nav{
+    margin:auto;
+    height: 5%;
+    width: 96%;
+    box-sizing: border-box;
+    background-color: darkcyan;
+}
+

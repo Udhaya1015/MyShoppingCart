@@ -1,0 +1,199 @@
+[
+{
+"filter_id":1,
+"products":[{
+             "product_id":10,
+             "product_name":"Books",
+             "imgSrc":"Img/Books/May-BOOK.jpeg",
+             "price":5000
+             },
+             {
+             "product_id":11,
+             "product_name":"BOOk-1",
+             "imgSrc":"Img/Books/Old-book.jpeg",
+             "price":3500
+             },
+             {
+             "product_id":13,
+             "product_name":"Books3",
+             "imgSrc":"Img/Books/images.jpEg",
+             "price":500
+             },
+             {
+             "product_id":14,
+             "product_name":"Tolstoy",
+             "imgSrc":"Img/Books/tolstoy.jpg",
+             "price":6000
+             },
+             {
+             "product_id":15,
+             "product_name":"Vel Pari Story",
+             "imgSrc":"Img/Books/vel-pari.jpg",
+             "price":500
+             },
+             {
+             "product_id":16,
+             "product_name":"Book4",
+             "imgSrc":"Img/Books/war-peace.webp",
+             "price":1000
+             }]
+ },
+ {
+ "filter_id":2,
+ "products":[{
+            "product_id":17,
+            "product_name":"Mens Belt",
+            "imgSrc":"Img/Mens wear/images.jpeg",
+            "price":3000
+            },
+            {
+            "product_id":18,
+            "product_name":"Casual pants",
+            "imgSrc":"Img/Mens wear/pant.jpg",
+            "price":1999
+            },
+            {
+            "product_id":19,
+            "product_name":"Mens Shirt",
+            "imgSrc":"Img/Mens wear/shirt.png",
+            "price":1500
+            },
+            {
+            "product_id":20,
+            "product_name":"T-Shirt",
+            "imgSrc":"Img/Mens wear/t-shirt.png",
+            "price":600
+            },
+            {
+            "product_id":21,
+            "product_name":"Mens Tracks",
+            "imgSrc":"Img/Mens wear/track.jpeg",
+            "price":999
+            },
+            {
+            "product_id":22,
+            "product_name":"Men Watch",
+            "imgSrc":"Img/Mens wear/watch.jpg",
+            "price":3000
+            }]
+            
+ },
+ {
+ "filter_id":3,
+ "products":[{
+             "product_id":23,
+             "product_name":"Women T-Shirt",
+             "imgSrc":"Img/Womens wear/women-t-shirts.jpg",
+             "price":600
+             },
+             {
+             "product_id":24,
+             "product_name":"Womens Saree",
+             "imgSrc":"Img/Womens wear/saree.webp",
+             "price":500
+             },
+             {
+             "product_id":25,
+             "product_name":"Women Pants",
+             "imgSrc":"Img/Womens wear/pant.jpeg",
+             "price":1000
+             },
+             {
+             "product_id":26,
+             "product_name":"Womens Tops",
+             "imgSrc":"Img/Womens wear/womens-top.jpg",
+             "price":3000
+             },
+             {
+             "product_id":27,
+             "product_name":"Shoes",
+             "imgSrc":"Img/Womens wear/shoes.jpg",
+             "price":1500
+             },
+             {
+             "product_id":28,
+             "product_name":"Womens Watch",
+             "imgSrc":"Img/Womens wear/watch.webp",
+             "price":600
+             }]
+ },
+ {
+ "filter_id":4,
+ "products":[{
+              "product_id":29,
+              "product_name":"Curd Rice",
+              "imgSrc":"Img/Food/Curd-rice-1.webp",
+              "price":399
+              },
+              {
+              "product_id":30,
+              "product_name":"Chicken-Biryani",
+              "imgSrc":"Img/Food/chicken-biryani.jpg",
+              "price":150
+              },
+              {
+              "product_id":31,
+              "product_name":"Idli",
+              "imgSrc":"Img/Food/idli.webp",
+              "price":150
+              },
+              {
+              "product_id":32,
+              "product_name":"Masala Dosa",
+              "imgSrc":"Img/Food/Masala-Dosa.jpg",
+              "price":399
+              },
+              {
+              "product_id":33,
+              "product_name":"Nandu kolambu",
+              "imgSrc":"Img/Food/Nandu-kolambu.webp",
+              "price":399
+              },
+              {
+              "product_id":34,
+              "product_name":"Pizza",
+              "imgSrc":"Img/Food/pizza.jpg",
+              "price":60
+              }]
+ },
+ {
+ "filter_id":5,
+ "products":[{
+              "product_id":35,
+              "product_name":"A/C",
+              "imgSrc":"Img/home appliances/AC.webp",
+              "price":100
+              },
+              {
+              "product_id":36,
+              "product_name":"Frige",
+              "imgSrc":"Img/home appliances/Frige.jpg",
+              "price":199
+              },
+              {
+              "product_id":37,
+              "product_name":"Mixi",
+              "imgSrc":"Img/home appliances/Mixi.jpg",
+              "price":499
+              },
+              {
+              "product_id":38,
+              "product_name":"Stove",
+              "imgSrc":"Img/home appliances/stave.jpg",
+              "price":499
+              },
+              {
+              "product_id":39,
+              "product_name":"TV",
+              "imgSrc":"Img/home appliances/TV.jpg",
+              "price":399
+              },
+              {
+              "product_id":40,
+              "product_name":"Washing-Machine",
+              "imgSrc":"Img/home appliances/washing-machine.webp",
+              "price":399
+              }]
+ 
+}
+]
